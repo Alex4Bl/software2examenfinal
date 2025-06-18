@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:proyectofinalsoftware/grafico.dart';
 import 'package:proyectofinalsoftware/certificado.dart'; // Asegúrate de importar la pantalla del certificado
 
-class MainScreen extends StatelessWidget {
+class indexusuario extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
